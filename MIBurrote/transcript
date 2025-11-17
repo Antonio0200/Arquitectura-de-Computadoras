@@ -1,0 +1,89 @@
+# Compile of Buffer_1.v was successful.
+# Compile of Buffer_2.v was successful.
+# Compile of Adder4.v was successful.
+# Compile of MemInstrucciones.v was successful.
+# Compile of Pc.v was successful.
+# Compile of Quesadilla_Tb.v was successful.
+# Compile of Quesadilla1.v was successful.
+# Compile of Mux_1.v was successful.
+# Compile of Mux_2.v was successful.
+# Compile of Brr.v was successful with warnings.
+# Compile of Brr_tb.v was successful.
+# Compile of Burrito.v was successful.
+# Compile of Burrito_tb.v was successful.
+# Compile of Instruccion.v was successful.
+# Compile of Instruccion_tb.v was successful.
+# 15 compiles, 0 failed with no errors.
+# Compile of Buffer_1.v was successful.
+# Compile of Buffer_2.v was successful.
+# Compile of Adder4.v was successful.
+# Compile of MemInstrucciones.v was successful.
+# Compile of Pc.v was successful.
+# Compile of Quesadilla_Tb.v was successful.
+# Compile of Quesadilla1.v was successful.
+# Compile of Mux_1.v was successful.
+# Compile of Mux_2.v was successful.
+# Compile of Brr.v was successful with warnings.
+# Compile of Brr_tb.v was successful.
+# Compile of Burrito.v was successful.
+# Compile of Burrito_tb.v was successful.
+# Compile of Instruccion.v was successful.
+# Compile of Instruccion_tb.v was successful.
+# 15 compiles, 0 failed with no errors.
+# Compile of Buffer_1.v was successful.
+# Compile of Buffer_2.v was successful.
+# Compile of Adder4.v was successful.
+# Compile of MemInstrucciones.v was successful.
+# Compile of Pc.v was successful.
+# Compile of Quesadilla_Tb.v was successful.
+# Compile of Quesadilla1.v was successful.
+# Compile of Mux_1.v was successful.
+# Compile of Mux_2.v was successful.
+# Compile of Brr.v was successful with warnings.
+# Compile of Brr_tb.v was successful.
+# Compile of Burrito.v was successful.
+# Compile of Burrito_tb.v was successful.
+# Compile of Instruccion.v was successful.
+# Compile of Instruccion_tb.v was successful.
+# Compile of TopLevel.v was successful.
+# Compile of TopLevel_tb.v was successful.
+# 17 compiles, 0 failed with no errors.
+vsim MIBurrote.TopLevel_tb
+# vsim MIBurrote.TopLevel_tb 
+# Start time: 17:05:24 on Oct 24,2025
+# Loading MIBurrote.TopLevel_tb
+# Loading MIBurrote.TopLevel
+# Loading MIBurrote.Quesadilla
+# Loading MIBurrote.ProgramCounter
+# Loading MIBurrote.adder4
+# Loading MIBurrote.MemoriaInstrucciones
+# Loading MIBurrote.Buffer_1
+# Loading MIBurrote.Buffer_2
+vsim MIBurrote.TopLevel_tb
+# End time: 17:05:31 on Oct 24,2025, Elapsed time: 0:00:07
+# Errors: 0, Warnings: 19
+# vsim MIBurrote.TopLevel_tb 
+# Start time: 17:05:31 on Oct 24,2025
+# Loading MIBurrote.TopLevel_tb
+# Loading MIBurrote.TopLevel
+# Loading MIBurrote.Quesadilla
+# Loading MIBurrote.ProgramCounter
+# Loading MIBurrote.adder4
+# Loading MIBurrote.MemoriaInstrucciones
+# Loading MIBurrote.Buffer_1
+# Loading MIBurrote.Buffer_2
+add wave -position insertpoint  \
+sim:/TopLevel_tb/clk \
+sim:/TopLevel_tb/reset \
+sim:/TopLevel_tb/fetch_en1 \
+sim:/TopLevel_tb/fetch_en2 \
+sim:/TopLevel_tb/pc_current \
+sim:/TopLevel_tb/instruccion_fetch \
+sim:/TopLevel_tb/instruccion_decode \
+sim:/TopLevel_tb/data_out_final
+run -all
+# ** Note: $stop    : C:/Users/denig/Music/MIBurrote/TopLevel_tb.v(50)
+#    Time: 630 ns  Iteration: 0  Instance: /TopLevel_tb
+# Break in Module TopLevel_tb at C:/Users/denig/Music/MIBurrote/TopLevel_tb.v line 50
+# End time: 17:07:37 on Oct 24,2025, Elapsed time: 0:02:06
+# Errors: 0, Warnings: 1

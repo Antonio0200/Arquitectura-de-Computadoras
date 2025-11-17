@@ -1,0 +1,121 @@
+C:/Users/denig/Music/BR+ALU+BURRITO+INSTANCIA/Brr_tb.v {1 {vlog -work MIBurrote -stats=none {C:\Users\denig\Music\BR+ALU+BURRITO+INSTANCIA\Brr_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module bancotb
+
+Top level modules:
+	bancotb
+
+} {} {}} C:/Users/denig/Music/BR+ALU+BURRITO+INSTANCIA/Burrito_tb.v {1 {vlog -work MIBurrote -stats=none {C:\Users\denig\Music\BR+ALU+BURRITO+INSTANCIA\Burrito_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Burrito
+
+Top level modules:
+	Burrito
+
+} {} {}} C:/Users/denig/Music/Burrote/Mux_1.v {1 {vlog -work MIBurrote -stats=none {C:\Users\denig\Music\Burrote\Mux_1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mux_1
+
+Top level modules:
+	Mux_1
+
+} {} {}} C:/Users/denig/Music/Burrote/Mux_2.v {1 {vlog -work MIBurrote -stats=none {C:\Users\denig\Music\Burrote\Mux_2.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Mux_2
+
+Top level modules:
+	Mux_2
+
+} {} {}} C:/Users/denig/Music/BR+ALU+BURRITO+INSTANCIA/Burrito.v {1 {vlog -work MIBurrote -stats=none {C:\Users\denig\Music\BR+ALU+BURRITO+INSTANCIA\Burrito.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Burrito
+
+Top level modules:
+	Burrito
+
+} {} {}} C:/Users/denig/Music/Quesadilla/Pc.v {1 {vlog -work MIBurrote -stats=none {C:\Users\denig\Music\Quesadilla\Pc.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ProgramCounter
+
+Top level modules:
+	ProgramCounter
+
+} {} {}} C:/Users/denig/Music/MIBurrote/Buffer_1.v {1 {vlog -work MIBurrote -stats=none {C:\Users\denig\Music\MIBurrote\Buffer_1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Buffer_1
+
+Top level modules:
+	Buffer_1
+
+} {} {}} C:/Users/denig/Music/Quesadilla/Quesadilla1.v {1 {vlog -work MIBurrote -stats=none {C:\Users\denig\Music\Quesadilla\Quesadilla1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Quesadilla
+
+Top level modules:
+	Quesadilla
+
+} {} {}} C:/Users/denig/Music/MIBurrote/TopLevel.v {1 {vlog -work MIBurrote -stats=none {C:\Users\denig\Music\MIBurrote\TopLevel.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TopLevel
+
+Top level modules:
+	TopLevel
+
+} {} {}} C:/Users/denig/Music/MIBurrote/Buffer_2.v {1 {vlog -work MIBurrote -stats=none {C:\Users\denig\Music\MIBurrote\Buffer_2.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Buffer_2
+
+Top level modules:
+	Buffer_2
+
+} {} {}} C:/Users/denig/Music/Quesadilla/MemInstrucciones.v {1 {vlog -work MIBurrote -stats=none {C:\Users\denig\Music\Quesadilla\MemInstrucciones.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MemoriaInstrucciones
+
+Top level modules:
+	MemoriaInstrucciones
+
+} {} {}} C:/Users/denig/Music/BR+ALU+BURRITO+INSTANCIA/Instruccion_tb.v {1 {vlog -work MIBurrote -stats=none {C:\Users\denig\Music\BR+ALU+BURRITO+INSTANCIA\Instruccion_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module InstructionDecoder_TB
+
+Top level modules:
+	InstructionDecoder_TB
+
+} {} {}} C:/Users/denig/Music/BR+ALU+BURRITO+INSTANCIA/Brr.v {2 {vlog -work MIBurrote -stats=none {C:\Users\denig\Music\BR+ALU+BURRITO+INSTANCIA\Brr.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module BancoR
+** Warning: C:\Users\denig\Music\BR+ALU+BURRITO+INSTANCIA\Brr.v(18): (vlog-2182) 'ROM' might be read before written in always_comb or always @* block.
+
+Top level modules:
+	BancoR
+
+} {} {}} C:/Users/denig/Music/Quesadilla/Quesadilla_Tb.v {1 {vlog -work MIBurrote -stats=none {C:\Users\denig\Music\Quesadilla\Quesadilla_Tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Quesadilla_tb
+
+Top level modules:
+	Quesadilla_tb
+
+} {} {}} C:/Users/denig/Music/MIBurrote/TopLevel_tb.v {1 {vlog -work MIBurrote -stats=none {C:\Users\denig\Music\MIBurrote\TopLevel_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TopLevel_tb
+
+Top level modules:
+	TopLevel_tb
+
+} {} {}} C:/Users/denig/Music/BR+ALU+BURRITO+INSTANCIA/Instruccion.v {1 {vlog -work MIBurrote -stats=none {C:\Users\denig\Music\BR+ALU+BURRITO+INSTANCIA\Instruccion.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module InstructionDecoder
+
+Top level modules:
+	InstructionDecoder
+
+} {} {}} C:/Users/denig/Music/Quesadilla/Adder4.v {1 {vlog -work MIBurrote -stats=none {C:\Users\denig\Music\Quesadilla\Adder4.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module adder4
+
+Top level modules:
+	adder4
+
+} {} {}}
