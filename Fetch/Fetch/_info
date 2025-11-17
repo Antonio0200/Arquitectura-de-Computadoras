@@ -1,0 +1,131 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/denig/Music/Br + ALU
+vALU_Sumador
+!s110 1760542774
+!i10b 1
+!s100 DiZ3ibShReM5ZEmXIHjGz0
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IQLW:G7?3l9TVoYk03_oQM0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/denig/Music/Fetch
+w1759777581
+8C:/Users/denig/Music/Fetch/Suma.v
+FC:/Users/denig/Music/Fetch/Suma.v
+!i122 24
+L0 2 12
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1760542774.000000
+!s107 C:/Users/denig/Music/Fetch/Suma.v|
+!s90 -reportprogress|300|-work|Fetch|-stats=none|C:/Users/denig/Music/Fetch/Suma.v|
+!i113 1
+Z4 o-work Fetch
+Z5 tCvgOpt 0
+n@a@l@u_@sumador
+vFetchUnit
+Z6 !s110 1760571215
+!i10b 1
+!s100 b>I<;9bmdFojmISAoIooO0
+R0
+I`dMmmgcOYP?FkVe8RPC7T2
+R1
+R2
+w1759777606
+8C:/Users/denig/Music/Fetch/_Fetch.v
+FC:/Users/denig/Music/Fetch/_Fetch.v
+!i122 28
+L0 2 26
+R3
+r1
+!s85 0
+31
+Z7 !s108 1760571215.000000
+!s107 C:/Users/denig/Music/Fetch/_Fetch.v|
+!s90 -reportprogress|300|-work|Fetch|-stats=none|C:/Users/denig/Music/Fetch/_Fetch.v|
+!i113 1
+R4
+R5
+n@fetch@unit
+vFetchUnitTB
+R6
+!i10b 1
+!s100 PTKh4SdLPK7^kI^dZBB`d3
+R0
+IKhJkoTUoD9c09Be^2NEY=0
+R1
+R2
+w1759777904
+8C:/Users/denig/Music/Fetch/_Fetch_TB.v
+FC:/Users/denig/Music/Fetch/_Fetch_TB.v
+!i122 29
+L0 3 66
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/denig/Music/Fetch/_Fetch_TB.v|
+!s90 -reportprogress|300|-work|Fetch|-stats=none|C:/Users/denig/Music/Fetch/_Fetch_TB.v|
+!i113 1
+R4
+R5
+n@fetch@unit@t@b
+vMemoriaInstrucciones
+R6
+!i10b 1
+!s100 oE_X7oSU31>4dQeV]9aB[3
+R0
+ITj8IXQXBVU@Roef8lQYWS3
+R1
+R2
+w1759777786
+8C:/Users/denig/Music/Fetch/Memoria_Instrucciones.v
+FC:/Users/denig/Music/Fetch/Memoria_Instrucciones.v
+!i122 27
+L0 3 25
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/denig/Music/Fetch/Memoria_Instrucciones.v|
+!s90 -reportprogress|300|-work|Fetch|-stats=none|C:/Users/denig/Music/Fetch/Memoria_Instrucciones.v|
+!i113 1
+R4
+R5
+n@memoria@instrucciones
+vProgramCounter
+R6
+!i10b 1
+!s100 `0;kmQziW67c^7Vl[;N1_0
+R0
+IFdJ4SSa]0W6<cJJl`P4Fd2
+R1
+R2
+w1759777594
+8C:/Users/denig/Music/Fetch/Pc.v
+FC:/Users/denig/Music/Fetch/Pc.v
+!i122 26
+L0 2 15
+R3
+r1
+!s85 0
+31
+!s108 1760571214.000000
+!s107 C:/Users/denig/Music/Fetch/Pc.v|
+!s90 -reportprogress|300|-work|Fetch|-stats=none|C:/Users/denig/Music/Fetch/Pc.v|
+!i113 1
+R4
+R5
+n@program@counter

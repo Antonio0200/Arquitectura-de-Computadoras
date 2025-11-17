@@ -1,0 +1,34 @@
+C:/Users/denig/Music/Fetch/_Fetch.v {1 {vlog -work Fetch -stats=none C:/Users/denig/Music/Fetch/_Fetch.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module FetchUnit
+
+Top level modules:
+	FetchUnit
+
+} {} {}} C:/Users/denig/Music/Fetch/Suma.v {0 {vlog -work Fetch -stats=none {C:\Users\denig\Music\Fetch\Suma.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU_Sumador
+** Error: (vlog-13038) C:\Users\denig\Music\Fetch\Suma.v(5): near ")": Missing port in ansi port list.
+
+} {4.0 5.0} {}} C:/Users/denig/Music/Fetch/Memoria_Instrucciones.v {1 {vlog -work Fetch -stats=none C:/Users/denig/Music/Fetch/Memoria_Instrucciones.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MemoriaInstrucciones
+
+Top level modules:
+	MemoriaInstrucciones
+
+} {} {}} C:/Users/denig/Music/Fetch/_Fetch_TB.v {1 {vlog -work Fetch -stats=none C:/Users/denig/Music/Fetch/_Fetch_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module FetchUnitTB
+
+Top level modules:
+	FetchUnitTB
+
+} {} {}} C:/Users/denig/Music/Fetch/Pc.v {1 {vlog -work Fetch -stats=none C:/Users/denig/Music/Fetch/Pc.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ProgramCounter
+
+Top level modules:
+	ProgramCounter
+
+} {} {}}
