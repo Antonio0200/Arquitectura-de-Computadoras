@@ -1,0 +1,15 @@
+C:/Users/denig/Music/Tarea/BR_TB.v {1 {vlog -work Tarea_BR -stats=none C:/Users/denig/Music/Tarea/BR_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module BR_TB
+
+Top level modules:
+	BR_TB
+
+} {} {}} C:/Users/denig/Music/Tarea/BR.v {1 {vlog -work Tarea_BR -stats=none C:/Users/denig/Music/Tarea/BR.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module BR
+
+Top level modules:
+	BR
+
+} {} {}}
