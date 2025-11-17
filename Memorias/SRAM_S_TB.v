@@ -1,0 +1,77 @@
+`timescale 1ns/1ns
+module SRAM_S_TB();
+
+reg clk_tb;
+reg [7:0] dato_e_tb;
+reg [7:0] dir_tb;
+reg WE_tb, en_tb;
+wire [7:0] dato_s_tb;
+
+SRAM_S dut(
+    .clk(clk_tb),
+    .Dato_e(dato_e_tb),
+    .Dir(dir_tb),
+    .WE(WE_tb),
+    .En(en_tb),
+    .Dato_s(dato_s_tb)
+);
+
+// Generador de reloj
+initial begin
+    clk_tb = 0;
+    forever #5 clk_tb = ~clk_tb;
+end
+
+initial begin
+    en_tb = 1;
+
+    // Lectura inicial de todas las posiciones
+    WE_tb = 0;
+    dir_tb = 0;  #10;
+    dir_tb = 1;  #10;
+    dir_tb = 2;  #10;
+    dir_tb = 3;  #10;
+    dir_tb = 4;  #10;
+    dir_tb = 5;  #10;
+    dir_tb = 6;  #10;
+    dir_tb = 7;  #10;
+    dir_tb = 8;  #10;
+    dir_tb = 9;  #10;
+    dir_tb = 10; #10;
+    dir_tb = 11; #10;
+
+    // Escrituras (se hacen en flanco de reloj)
+    WE_tb = 1;
+    dir_tb = 0;  dato_e_tb = 8'd220; #10;
+    dir_tb = 1;  dato_e_tb = 8'd221; #10;
+    dir_tb = 2;  dato_e_tb = 8'd222; #10;
+    dir_tb = 3;  dato_e_tb = 8'd223; #10;
+    dir_tb = 4;  dato_e_tb = 8'd224; #10;
+    dir_tb = 5;  dato_e_tb = 8'd225; #10;
+    dir_tb = 6;  dato_e_tb = 8'd226; #10;
+    dir_tb = 7;  dato_e_tb = 8'd227; #10;
+    dir_tb = 8;  dato_e_tb = 8'd228; #10;
+    dir_tb = 9;  dato_e_tb = 8'd229; #10;
+    dir_tb = 10; dato_e_tb = 8'd230; #10;
+    dir_tb = 11; dato_e_tb = 8'd231; #10;
+
+    // Lecturas después de escritura
+    WE_tb = 0;
+    dir_tb = 0;  #10;
+    dir_tb = 1;  #10;
+    dir_tb = 2;  #10;
+    dir_tb = 3;  #10;
+    dir_tb = 4;  #10;
+    dir_tb = 5;  #10;
+    dir_tb = 6;  #10;
+    dir_tb = 7;  #10;
+    dir_tb = 8;  #10;
+    dir_tb = 9;  #10;
+    dir_tb = 10; #10;
+    dir_tb = 11; #10;
+
+    $stop;
+end
+
+endmodule
+

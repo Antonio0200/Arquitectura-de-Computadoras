@@ -1,0 +1,58 @@
+C:/Users/denig/Music/Memorias/SRAM_S.v {1 {vlog -work Memorias -stats=none C:/Users/denig/Music/Memorias/SRAM_S.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module SRAM_S
+
+Top level modules:
+	SRAM_S
+
+} {} {}} C:/Users/denig/Music/Memorias/BR_TB.v {1 {vlog -work Memorias -stats=none C:/Users/denig/Music/Memorias/BR_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module BR_TB
+
+Top level modules:
+	BR_TB
+
+} {} {}} C:/Users/denig/Music/Memorias/ROM.v {2 {vlog -work Memorias -stats=none C:/Users/denig/Music/Memorias/ROM.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ROM
+** Warning: C:/Users/denig/Music/Memorias/ROM.v(9): (vlog-2417) Multiple packed dimensions are not allowed.
+
+Top level modules:
+	ROM
+
+} {} {}} C:/Users/denig/Music/Memorias/SRAM_S_TB.v {1 {vlog -work Memorias -stats=none C:/Users/denig/Music/Memorias/SRAM_S_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module SRAM_S_TB
+
+Top level modules:
+	SRAM_S_TB
+
+} {} {}} C:/Users/denig/Music/Memorias/ROM_TB.v {1 {vlog -work Memorias -stats=none C:/Users/denig/Music/Memorias/ROM_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module rom_tb
+
+Top level modules:
+	rom_tb
+
+} {} {}} C:/Users/denig/Music/Memorias/SRAM_A.v {1 {vlog -work Memorias -stats=none C:/Users/denig/Music/Memorias/SRAM_A.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module SRAM_A
+
+Top level modules:
+	SRAM_A
+
+} {} {}} C:/Users/denig/Music/Memorias/BR.v {1 {vlog -work Memorias -stats=none C:/Users/denig/Music/Memorias/BR.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module BR
+
+Top level modules:
+	BR
+
+} {} {}} C:/Users/denig/Music/Memorias/SRAM_A_TB.v {1 {vlog -work Memorias -stats=none C:/Users/denig/Music/Memorias/SRAM_A_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module SRAM_A_TB
+
+Top level modules:
+	SRAM_A_TB
+
+} {} {}}

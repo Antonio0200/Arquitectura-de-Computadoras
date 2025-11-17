@@ -1,0 +1,202 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vBR
+Z0 !s110 1758490344
+!i10b 1
+!s100 ZNgBlVg5Z6g85nK>G=oDm3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IK22c7cBnjaA^ilg2dhICz0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/denig/Music/Memorias
+w1758479084
+8C:/Users/denig/Music/Memorias/BR.v
+FC:/Users/denig/Music/Memorias/BR.v
+!i122 60
+L0 2 21
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1758490344.000000
+!s107 C:/Users/denig/Music/Memorias/BR.v|
+!s90 -reportprogress|300|-work|Memorias|-stats=none|C:/Users/denig/Music/Memorias/BR.v|
+!i113 1
+Z6 o-work Memorias
+Z7 tCvgOpt 0
+n@b@r
+vBR_TB
+R0
+!i10b 1
+!s100 [I8Egdo0>@:k0Y@ZYdF[^1
+R1
+IL;>XcH5^4WmPnT`F2e4bB2
+R2
+R3
+w1758489116
+8C:/Users/denig/Music/Memorias/BR_TB.v
+FC:/Users/denig/Music/Memorias/BR_TB.v
+!i122 67
+L0 2 45
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/denig/Music/Memorias/BR_TB.v|
+!s90 -reportprogress|300|-work|Memorias|-stats=none|C:/Users/denig/Music/Memorias/BR_TB.v|
+!i113 1
+R6
+R7
+n@b@r_@t@b
+vROM
+R0
+!i10b 1
+!s100 afMARUR]oIa@Z_9XbB8el3
+R1
+IH0o>2Uk<VE8Q_m4T=zPjG2
+R2
+R3
+w1758478048
+8C:/Users/denig/Music/Memorias/ROM.v
+FC:/Users/denig/Music/Memorias/ROM.v
+!i122 61
+L0 3 37
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/denig/Music/Memorias/ROM.v|
+!s90 -reportprogress|300|-work|Memorias|-stats=none|C:/Users/denig/Music/Memorias/ROM.v|
+!i113 1
+R6
+R7
+n@r@o@m
+vrom_tb
+R0
+!i10b 1
+!s100 R@cT7O[2=iIn>SBkeG>1J2
+R1
+I;>Q>LAYWAU4HbG62z=dMT0
+R2
+R3
+w1758480847
+8C:/Users/denig/Music/Memorias/ROM_TB.v
+FC:/Users/denig/Music/Memorias/ROM_TB.v
+!i122 64
+L0 2 28
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/denig/Music/Memorias/ROM_TB.v|
+!s90 -reportprogress|300|-work|Memorias|-stats=none|C:/Users/denig/Music/Memorias/ROM_TB.v|
+!i113 1
+R6
+R7
+vSRAM_A
+R0
+!i10b 1
+!s100 hXoo]jZ4P:lD8BI`J<j>Q2
+R1
+IUDXG]3`^30eaDCIP[=59z3
+R2
+R3
+w1758490302
+8C:/Users/denig/Music/Memorias/SRAM_A.v
+FC:/Users/denig/Music/Memorias/SRAM_A.v
+!i122 62
+L0 2 35
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/denig/Music/Memorias/SRAM_A.v|
+!s90 -reportprogress|300|-work|Memorias|-stats=none|C:/Users/denig/Music/Memorias/SRAM_A.v|
+!i113 1
+R6
+R7
+n@s@r@a@m_@a
+vSRAM_A_TB
+R0
+!i10b 1
+!s100 ;g^YBVa8cNd>Jf<LY73B@2
+R1
+IT@bgF09?9<=eP5JkhzI?=0
+R2
+R3
+w1758490337
+8C:/Users/denig/Music/Memorias/SRAM_A_TB.v
+FC:/Users/denig/Music/Memorias/SRAM_A_TB.v
+!i122 65
+L0 2 67
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/denig/Music/Memorias/SRAM_A_TB.v|
+!s90 -reportprogress|300|-work|Memorias|-stats=none|C:/Users/denig/Music/Memorias/SRAM_A_TB.v|
+!i113 1
+R6
+R7
+n@s@r@a@m_@a_@t@b
+vSRAM_S
+R0
+!i10b 1
+!s100 VoUTGzoZj_iTHDG@`Q<0P0
+R1
+II]T;cmnIMhJL8[kaJZNo]2
+R2
+R3
+w1758479045
+8C:/Users/denig/Music/Memorias/SRAM_S.v
+FC:/Users/denig/Music/Memorias/SRAM_S.v
+!i122 63
+L0 2 37
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/denig/Music/Memorias/SRAM_S.v|
+!s90 -reportprogress|300|-work|Memorias|-stats=none|C:/Users/denig/Music/Memorias/SRAM_S.v|
+!i113 1
+R6
+R7
+n@s@r@a@m_@s
+vSRAM_S_TB
+R0
+!i10b 1
+!s100 zo<7S5:UlGK9_U>7W<i=?1
+R1
+IC>EP@`PgON4n3fYWGd=g00
+R2
+R3
+w1758489529
+8C:/Users/denig/Music/Memorias/SRAM_S_TB.v
+FC:/Users/denig/Music/Memorias/SRAM_S_TB.v
+!i122 66
+L0 2 75
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/denig/Music/Memorias/SRAM_S_TB.v|
+!s90 -reportprogress|300|-work|Memorias|-stats=none|C:/Users/denig/Music/Memorias/SRAM_S_TB.v|
+!i113 1
+R6
+R7
+n@s@r@a@m_@s_@t@b

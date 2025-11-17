@@ -1,0 +1,23 @@
+`timescale 1ns/1ns
+module rom_tb();
+
+reg [7:0] dir_tb;
+wire [7:0] dato_tb;
+
+ROM dut(
+    .Dir(dir_tb),
+    .Dato_s(dato_tb)
+);
+
+initial begin
+    dir_tb = 0; #10;
+    dir_tb = 1; #10;
+    dir_tb = 5; #10;
+    dir_tb = 9; #10;
+    dir_tb = 11; #10;
+
+    $stop;
+end
+
+endmodule
+
