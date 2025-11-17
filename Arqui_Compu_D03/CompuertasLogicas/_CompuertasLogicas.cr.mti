@@ -1,0 +1,8 @@
+{C:/Users/denig/Videos/Cucei/Arquitectura de Computadoras/Arqui_Compu_D03/CompuertasLogicas/_CompuertasLogicas.v} {1 {vlog -work CompuertasLogicas -stats=none {C:\Users\denig\Videos\Cucei\Arquitectura de Computadoras\Arqui_Compu_D03\CompuertasLogicas\_CompuertasLogicas.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module modulos
+
+Top level modules:
+	modulos
+
+} {} {}}

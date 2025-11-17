@@ -1,0 +1,107 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/denig/Videos/Cucei/Arquitectura de Computadoras/Arqui_Compu_D03/CompuertasLogicas
+vALU4_REQ
+!s110 1757543426
+!i10b 1
+!s100 6YT^TFLRYYl:nMj:?IbKc0
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I9544JY];C4R@mAB?ggXmg3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/denig/Videos/Cucei/Arquitectura de Computadoras/Arqui_Compu_D03/CompuertasLogicas/Participacion ALU
+w1757307089
+8C:/Users/denig/Videos/Cucei/Arquitectura de Computadoras/Arqui_Compu_D03/CompuertasLogicas/Participacion ALU/ALU.v
+FC:/Users/denig/Videos/Cucei/Arquitectura de Computadoras/Arqui_Compu_D03/CompuertasLogicas/Participacion ALU/ALU.v
+!i122 24
+L0 2 23
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1757543426.000000
+!s107 C:/Users/denig/Videos/Cucei/Arquitectura de Computadoras/Arqui_Compu_D03/CompuertasLogicas/Participacion ALU/ALU.v|
+!s90 -reportprogress|300|-work|Participacion_ALU|-stats=none|C:/Users/denig/Videos/Cucei/Arquitectura de Computadoras/Arqui_Compu_D03/CompuertasLogicas/Participacion ALU/ALU.v|
+!i113 1
+Z4 o-work Participacion_ALU
+Z5 tCvgOpt 0
+n@a@l@u4_@r@e@q
+vALU4_REQ_TB
+!s110 1757543427
+!i10b 1
+!s100 cRkjkUPPo;83CfUzHb[Oa2
+R0
+I2N^AB9mMJXVM?=z<3iLVN2
+R1
+R2
+w1757307091
+8C:/Users/denig/Videos/Cucei/Arquitectura de Computadoras/Arqui_Compu_D03/CompuertasLogicas/Participacion ALU/ALU_tb.v
+FC:/Users/denig/Videos/Cucei/Arquitectura de Computadoras/Arqui_Compu_D03/CompuertasLogicas/Participacion ALU/ALU_tb.v
+!i122 25
+L0 2 78
+R3
+r1
+!s85 0
+31
+!s108 1757543427.000000
+!s107 C:/Users/denig/Videos/Cucei/Arquitectura de Computadoras/Arqui_Compu_D03/CompuertasLogicas/Participacion ALU/ALU_tb.v|
+!s90 -reportprogress|300|-work|Participacion_ALU|-stats=none|C:/Users/denig/Videos/Cucei/Arquitectura de Computadoras/Arqui_Compu_D03/CompuertasLogicas/Participacion ALU/ALU_tb.v|
+!i113 1
+R4
+R5
+n@a@l@u4_@r@e@q_@t@b
+vCuasi
+Z6 !s110 1756331435
+!i10b 1
+!s100 29>i2T2SnmN^Q??m7g1WR3
+R0
+IO57c?PVIoe11P[YoB;1KG2
+R1
+R2
+w1756328912
+8C:\Users\denig\Videos\Cucei\Arquitectura de Computadoras\Arqui_Compu_D03\CompuertasLogicas\Participacion ALU\ALU.v
+FC:\Users\denig\Videos\Cucei\Arquitectura de Computadoras\Arqui_Compu_D03\CompuertasLogicas\Participacion ALU\ALU.v
+!i122 18
+L0 3 27
+R3
+r1
+!s85 0
+31
+Z7 !s108 1756331435.000000
+!s107 C:\Users\denig\Videos\Cucei\Arquitectura de Computadoras\Arqui_Compu_D03\CompuertasLogicas\Participacion ALU\ALU.v|
+!s90 -reportprogress|300|-work|Participacion_ALU|-stats=none|C:\Users\denig\Videos\Cucei\Arquitectura de Computadoras\Arqui_Compu_D03\CompuertasLogicas\Participacion ALU\ALU.v|
+!i113 1
+R4
+R5
+n@cuasi
+vCuasi_TB
+R6
+!i10b 1
+!s100 =WdEbWHKRlmXoCA?n^VV22
+R0
+II>BBakzIj3jbhEeTSoN1@3
+R1
+R2
+w1756331342
+8C:\Users\denig\Videos\Cucei\Arquitectura de Computadoras\Arqui_Compu_D03\CompuertasLogicas\Participacion ALU\ALU_tb.v
+FC:\Users\denig\Videos\Cucei\Arquitectura de Computadoras\Arqui_Compu_D03\CompuertasLogicas\Participacion ALU\ALU_tb.v
+!i122 19
+L0 3 53
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:\Users\denig\Videos\Cucei\Arquitectura de Computadoras\Arqui_Compu_D03\CompuertasLogicas\Participacion ALU\ALU_tb.v|
+!s90 -reportprogress|300|-work|Participacion_ALU|-stats=none|C:\Users\denig\Videos\Cucei\Arquitectura de Computadoras\Arqui_Compu_D03\CompuertasLogicas\Participacion ALU\ALU_tb.v|
+!i113 1
+R4
+R5
+n@cuasi_@t@b

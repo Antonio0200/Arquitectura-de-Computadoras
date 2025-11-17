@@ -1,0 +1,15 @@
+{C:/Users/denig/Videos/Cucei/Arquitectura de Computadoras/Arqui_Compu_D03/CompuertasLogicas/Participacion ALU/ALU_tb.v} {1 {vlog -work Participacion_ALU -stats=none {C:/Users/denig/Videos/Cucei/Arquitectura de Computadoras/Arqui_Compu_D03/CompuertasLogicas/Participacion ALU/ALU_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU4_REQ_TB
+
+Top level modules:
+	ALU4_REQ_TB
+
+} {} {}} {C:/Users/denig/Videos/Cucei/Arquitectura de Computadoras/Arqui_Compu_D03/CompuertasLogicas/Participacion ALU/ALU.v} {1 {vlog -work Participacion_ALU -stats=none {C:/Users/denig/Videos/Cucei/Arquitectura de Computadoras/Arqui_Compu_D03/CompuertasLogicas/Participacion ALU/ALU.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU4_REQ
+
+Top level modules:
+	ALU4_REQ
+
+} {} {}}

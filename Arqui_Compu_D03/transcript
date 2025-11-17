@@ -1,0 +1,16 @@
+# Compile of Taquitoo.v was successful.
+# Compile of Taquitoo_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vmap taquito C:/Users/denig/Music/taquito/taquito
+# Model Technology ModelSim - Intel FPGA Edition vmap 2020.1 Lib Mapping Utility 2020.02 Feb 28 2020
+# vmap taquito C:/Users/denig/Music/taquito/taquito 
+# Modifying C:/Users/denig/Music/taquito/taquito.mpf
+vmap -del taquito
+# Model Technology ModelSim - Intel FPGA Edition vmap 2020.1 Lib Mapping Utility 2020.02 Feb 28 2020
+# vmap -del taquito 
+# Removing reference to logical library taquito
+# Modifying C:/Users/denig/Music/taquito/taquito.mpf
+vmap taquito C:/Users/denig/Music/taquito/taquito
+# Model Technology ModelSim - Intel FPGA Edition vmap 2020.1 Lib Mapping Utility 2020.02 Feb 28 2020
+# vmap taquito C:/Users/denig/Music/taquito/taquito 
+# Modifying C:/Users/denig/Music/taquito/taquito.mpf

@@ -1,0 +1,70 @@
+# Compile of deco.v failed with 1 errors.
+# Compile of deco.v failed with 1 errors.
+# Compile of deco.v failed with 1 errors.
+# Compile of deco.v failed with 1 errors.
+# Compile of deco.v failed with 1 errors.
+# Compile of deco.v failed with 1 errors.
+# Compile of deco.v failed with 1 errors.
+# Compile of deco.v failed with 1 errors.
+# Compile of deco.v failed with 1 errors.
+# Compile of deco.v failed with 1 errors.
+# Compile of deco.v failed with 1 errors.
+# Compile of deco.v failed with 1 errors.
+# Compile of deco.v failed with 4 errors.
+# Compile of deco.v was successful.
+# Compile of deco.v was successful.
+vsim Decodificador.taquito
+# vsim Decodificador.taquito 
+# Start time: 10:28:53 on Sep 10,2025
+# Loading Decodificador.taquito
+add wave -position end  sim:/taquito/sabor
+add wave -position end  sim:/taquito/B
+add wave -position end  sim:/taquito/Chicharon
+add wave -position end  sim:/taquito/Papa
+add wave -position end  sim:/taquito/Frijol
+add wave -position end  sim:/taquito/Deshebrada
+run -all
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Compile of deco.v was successful.
+force -freeze sim:/taquito/sabor zzzz 0010
+run
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading Decodificador.taquito
+# Compile of deco.v was successful.
+add wave -position end  sim:/taquito/sabor
+add wave -position end  sim:/taquito/B
+add wave -position end  sim:/taquito/Chicharon
+add wave -position end  sim:/taquito/Papa
+add wave -position end  sim:/taquito/Frijol
+add wave -position end  sim:/taquito/Deshebrada
+force -freeze sim:/taquito/sabor 0010 0
+force -freeze sim:/taquito/sabor 0010 0
+run
+vsim Decodificador.taquito
+# End time: 10:34:02 on Sep 10,2025, Elapsed time: 0:05:09
+# Errors: 0, Warnings: 2
+# vsim Decodificador.taquito 
+# Start time: 10:34:02 on Sep 10,2025
+# Loading Decodificador.taquito
+# Compile of deco.v was successful.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading Decodificador.taquito
+# Compile of deco.v was successful.
+vsim Decodificador.taquito
+# End time: 10:35:08 on Sep 10,2025, Elapsed time: 0:01:06
+# Errors: 0, Warnings: 2
+# vsim Decodificador.taquito 
+# Start time: 10:35:08 on Sep 10,2025
+# Loading Decodificador.taquito
+add wave -position end  sim:/taquito/sabor
+add wave -position end  sim:/taquito/B
+add wave -position end  sim:/taquito/Chicharon
+add wave -position end  sim:/taquito/Papa
+add wave -position end  sim:/taquito/Frijol
+add wave -position end  sim:/taquito/Deshebrada
+force -freeze sim:/taquito/sabor 0010 0
+run
+force -freeze sim:/taquito/sabor 0010 0

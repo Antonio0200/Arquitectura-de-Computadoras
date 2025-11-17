@@ -1,0 +1,7 @@
+{C:/Users/denig/Videos/Cucei/Arquitectura de Computadoras/Arqui_Compu_D03/taquitoo.v} {1 {vlog -work taquito -stats=none {C:/Users/denig/Videos/Cucei/Arquitectura de Computadoras/Arqui_Compu_D03/taquitoo.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+
+} {} {}} {C:/Users/denig/Videos/Cucei/Arquitectura de Computadoras/Arqui_Compu_D03/taquitoo_tb.v} {1 {vlog -work taquito -stats=none {C:/Users/denig/Videos/Cucei/Arquitectura de Computadoras/Arqui_Compu_D03/taquitoo_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+
+} {} {}}

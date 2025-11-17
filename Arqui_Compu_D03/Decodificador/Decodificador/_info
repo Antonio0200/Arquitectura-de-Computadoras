@@ -1,0 +1,34 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/ArquiDeComp_D03
+vtaquito
+!s110 1757522094
+!i10b 1
+!s100 aiAdH?:<O>7VV^CZ@4ZIM3
+!s11b Dg1SIo80bB@j0V0VzS_@n1
+Ii61]GjI4[3JA6S<lW:bgk0
+VDg1SIo80bB@j0V0VzS_@n1
+dC:/intelFPGA/Decodificador
+w1757522089
+8C:\intelFPGA\Decodificador\deco.v
+FC:\intelFPGA\Decodificador\deco.v
+!i122 5
+L0 3 39
+OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1757522094.000000
+!s107 C:\intelFPGA\Decodificador\deco.v|
+!s90 -reportprogress|300|-work|Decodificador|-stats=none|C:\intelFPGA\Decodificador\deco.v|
+!i113 1
+o-work Decodificador
+tCvgOpt 0
