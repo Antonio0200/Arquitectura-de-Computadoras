@@ -1,0 +1,250 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/denig/Music/BR+ALU+BURRITO+INSTANCIA
+vADD
+Z0 !s110 1761151222
+!i10b 1
+!s100 O^HYolU4:no7FV8j_P>;30
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ibn4_UI`G9I[8m@jDE4NC42
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/denig/Music/Burrote
+w1759195963
+8C:\Users\denig\Music\BR+ALU+BURRITO+INSTANCIA\ADD.v
+FC:\Users\denig\Music\BR+ALU+BURRITO+INSTANCIA\ADD.v
+!i122 16
+L0 1 11
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1761151222.000000
+!s107 C:\Users\denig\Music\BR+ALU+BURRITO+INSTANCIA\ADD.v|
+!s90 -reportprogress|300|-work|Burrote|-stats=none|C:\Users\denig\Music\BR+ALU+BURRITO+INSTANCIA\ADD.v|
+!i113 1
+Z6 o-work Burrote
+Z7 tCvgOpt 0
+n@a@d@d
+vALU
+Z8 !s110 1761148051
+!i10b 1
+!s100 m<eX;hjcNd;QOkJZI7Mcc2
+R1
+Im49Uz;SCS0XXL;T^8dUfe1
+R2
+R3
+w1759199460
+8C:/Users/denig/Music/BR+ALU+BURRITO+INSTANCIA/ALU.v
+FC:/Users/denig/Music/BR+ALU+BURRITO+INSTANCIA/ALU.v
+!i122 1
+L0 2 26
+R4
+r1
+!s85 0
+31
+Z9 !s108 1761148051.000000
+!s107 C:/Users/denig/Music/BR+ALU+BURRITO+INSTANCIA/ALU.v|
+!s90 -reportprogress|300|-work|Burrote|-stats=none|C:/Users/denig/Music/BR+ALU+BURRITO+INSTANCIA/ALU.v|
+!i113 1
+R6
+R7
+n@a@l@u
+vALU_TB
+R8
+!i10b 1
+!s100 [[k9a=db^`j6P@5zM0U]n3
+R1
+IA@`f126FoP>`ZBQZIYPGK0
+R2
+R3
+w1759199599
+8C:/Users/denig/Music/BR+ALU+BURRITO+INSTANCIA/ALU_tb.v
+FC:/Users/denig/Music/BR+ALU+BURRITO+INSTANCIA/ALU_tb.v
+!i122 2
+L0 3 48
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/denig/Music/BR+ALU+BURRITO+INSTANCIA/ALU_tb.v|
+!s90 -reportprogress|300|-work|Burrote|-stats=none|C:/Users/denig/Music/BR+ALU+BURRITO+INSTANCIA/ALU_tb.v|
+!i113 1
+R6
+R7
+n@a@l@u_@t@b
+vBancoR
+R0
+!i10b 1
+!s100 KoE7Nc1F5H8lkU`?aFYhO3
+R1
+I8mQi35kdHY=n];hP0cf3J2
+R2
+R3
+w1759195331
+8C:\Users\denig\Music\BR+ALU+BURRITO+INSTANCIA\Brr.v
+FC:\Users\denig\Music\BR+ALU+BURRITO+INSTANCIA\Brr.v
+!i122 17
+L0 2 22
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:\Users\denig\Music\BR+ALU+BURRITO+INSTANCIA\Brr.v|
+!s90 -reportprogress|300|-work|Burrote|-stats=none|C:\Users\denig\Music\BR+ALU+BURRITO+INSTANCIA\Brr.v|
+!i113 1
+R6
+R7
+n@banco@r
+vbancotb
+R0
+!i10b 1
+!s100 2AoEEB^Ok`ZVHKeNV68Jk3
+R1
+Ih?]XLeRHc;Ib8U2k89:9]3
+R2
+R3
+w1758729745
+8C:\Users\denig\Music\BR+ALU+BURRITO+INSTANCIA\Brr_tb.v
+FC:\Users\denig\Music\BR+ALU+BURRITO+INSTANCIA\Brr_tb.v
+!i122 18
+L0 2 39
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:\Users\denig\Music\BR+ALU+BURRITO+INSTANCIA\Brr_tb.v|
+!s90 -reportprogress|300|-work|Burrote|-stats=none|C:\Users\denig\Music\BR+ALU+BURRITO+INSTANCIA\Brr_tb.v|
+!i113 1
+R6
+R7
+vBurrito
+R0
+!i10b 1
+!s100 9lVFS>=FF@R:lQTfFZ`Ni2
+R1
+IG2A8Zd_hzgo=dlHKoA_Xz2
+R2
+R3
+w1759199403
+8C:\Users\denig\Music\BR+ALU+BURRITO+INSTANCIA\Burrito_tb.v
+FC:\Users\denig\Music\BR+ALU+BURRITO+INSTANCIA\Burrito_tb.v
+!i122 20
+L0 2 36
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:\Users\denig\Music\BR+ALU+BURRITO+INSTANCIA\Burrito_tb.v|
+!s90 -reportprogress|300|-work|Burrote|-stats=none|C:\Users\denig\Music\BR+ALU+BURRITO+INSTANCIA\Burrito_tb.v|
+!i113 1
+R6
+R7
+n@burrito
+vInstructionDecoder
+R0
+!i10b 1
+!s100 [[51gmm^cg=0jF@4DNXQj2
+R1
+I>mTXz>=5X;jBfo:?F`^`10
+R2
+R3
+w1759199826
+8C:\Users\denig\Music\BR+ALU+BURRITO+INSTANCIA\Instruccion.v
+FC:\Users\denig\Music\BR+ALU+BURRITO+INSTANCIA\Instruccion.v
+!i122 21
+L0 1 14
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:\Users\denig\Music\BR+ALU+BURRITO+INSTANCIA\Instruccion.v|
+!s90 -reportprogress|300|-work|Burrote|-stats=none|C:\Users\denig\Music\BR+ALU+BURRITO+INSTANCIA\Instruccion.v|
+!i113 1
+R6
+R7
+n@instruction@decoder
+vInstructionDecoder_TB
+R0
+!i10b 1
+!s100 gMghLM[j;E8n785V`Y;f[0
+R1
+IB79OMM<6I5HWdJN5T=?Q20
+R2
+R3
+w1759199909
+8C:/Users/denig/Music/BR+ALU+BURRITO+INSTANCIA/Instruccion_tb.v
+FC:/Users/denig/Music/BR+ALU+BURRITO+INSTANCIA/Instruccion_tb.v
+!i122 22
+L0 3 40
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/denig/Music/BR+ALU+BURRITO+INSTANCIA/Instruccion_tb.v|
+!s90 -reportprogress|300|-work|Burrote|-stats=none|C:/Users/denig/Music/BR+ALU+BURRITO+INSTANCIA/Instruccion_tb.v|
+!i113 1
+R6
+R7
+n@instruction@decoder_@t@b
+vMux_1
+R0
+!i10b 1
+!s100 AWdh@VzU38OHX]7jVEFX51
+R1
+Ie7H:_ET2@a[ANIj`O`=IH1
+R2
+R3
+w1761151216
+8C:\Users\denig\Music\Burrote\Mux_1.v
+FC:\Users\denig\Music\Burrote\Mux_1.v
+!i122 23
+Z10 L0 3 12
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:\Users\denig\Music\Burrote\Mux_1.v|
+!s90 -reportprogress|300|-work|Burrote|-stats=none|C:\Users\denig\Music\Burrote\Mux_1.v|
+!i113 1
+R6
+R7
+n@mux_1
+vMux_2
+R0
+!i10b 1
+!s100 ^XKz=205T=;RhAmD9BHmJ1
+R1
+I0MIIkO>5?WLGMBdAYDJ9E0
+R2
+R3
+w1761151215
+8C:\Users\denig\Music\Burrote\Mux_2.v
+FC:\Users\denig\Music\Burrote\Mux_2.v
+!i122 24
+R10
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:\Users\denig\Music\Burrote\Mux_2.v|
+!s90 -reportprogress|300|-work|Burrote|-stats=none|C:\Users\denig\Music\Burrote\Mux_2.v|
+!i113 1
+R6
+R7
+n@mux_2
