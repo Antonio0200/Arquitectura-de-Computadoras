@@ -1,0 +1,58 @@
+{C:/Users/denig/Music/Tarea Iris/Brr.v} {2 {vlog -work BR -stats=none {C:\Users\denig\Music\Tarea Iris\Brr.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module BancoR
+** Warning: C:\Users\denig\Music\Tarea Iris\Brr.v(18): (vlog-2182) 'ROM' might be read before written in always_comb or always @* block.
+
+Top level modules:
+	BancoR
+
+} {} {}} {C:/Users/denig/Music/Tarea Iris/ALU.v} {1 {vlog -work work -stats=none {C:\Users\denig\Music\Tarea Iris\ALU.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {C:/Users/denig/Music/Tarea Iris/Instruccion_tb.v} {1 {vlog -work work -stats=none {C:\Users\denig\Music\Tarea Iris\Instruccion_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module InstructionDecoder_TB
+
+Top level modules:
+	InstructionDecoder_TB
+
+} {} {}} {C:/Users/denig/Music/Tarea Iris/Brr_tb.v} {1 {vlog -work BR -stats=none {C:\Users\denig\Music\Tarea Iris\Brr_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module bancotb
+
+Top level modules:
+	bancotb
+
+} {} {}} {C:/Users/denig/Music/Tarea Iris/Burrito.v} {1 {vlog -work work -stats=none {C:\Users\denig\Music\Tarea Iris\Burrito.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Burrito
+
+Top level modules:
+	Burrito
+
+} {} {}} {C:/Users/denig/Music/Tarea Iris/ALU_tb.v} {1 {vlog -work work -stats=none {C:\Users\denig\Music\Tarea Iris\ALU_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU_TB
+
+Top level modules:
+	ALU_TB
+
+} {} {}} {C:/Users/denig/Music/Tarea Iris/Burrito_tb.v} {1 {vlog -work work -stats=none {C:\Users\denig\Music\Tarea Iris\Burrito_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Burrito
+
+Top level modules:
+	Burrito
+
+} {} {}} {C:/Users/denig/Music/Tarea Iris/Instruccion.v} {1 {vlog -work work -stats=none {C:\Users\denig\Music\Tarea Iris\Instruccion.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module InstructionDecoder
+
+Top level modules:
+	InstructionDecoder
+
+} {} {}}

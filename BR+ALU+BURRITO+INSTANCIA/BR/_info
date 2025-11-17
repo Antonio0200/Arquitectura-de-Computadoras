@@ -1,0 +1,202 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vADD
+!s110 1759196644
+!i10b 1
+!s100 O^HYolU4:no7FV8j_P>;30
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I04OYU5QOgK2S[MY?]:;9^3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/denig/Music/Tarea Iris
+w1759195963
+8C:\Users\denig\Music\Tarea Iris\ADD.v
+FC:\Users\denig\Music\Tarea Iris\ADD.v
+!i122 18
+L0 1 11
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1759196644.000000
+!s107 C:\Users\denig\Music\Tarea Iris\ADD.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\denig\Music\Tarea Iris\ADD.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+n@a@d@d
+vALU
+Z6 !s110 1759199976
+!i10b 1
+!s100 m<eX;hjcNd;QOkJZI7Mcc2
+R0
+Io2ii<@GSgJDcj1R4LfUg82
+R1
+R2
+w1759199460
+8C:\Users\denig\Music\Tarea Iris\ALU.v
+FC:\Users\denig\Music\Tarea Iris\ALU.v
+!i122 23
+L0 2 26
+R3
+r1
+!s85 0
+31
+Z7 !s108 1759199976.000000
+!s107 C:\Users\denig\Music\Tarea Iris\ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\denig\Music\Tarea Iris\ALU.v|
+!i113 1
+R4
+R5
+n@a@l@u
+vALU_TB
+R6
+!i10b 1
+!s100 [[k9a=db^`j6P@5zM0U]n3
+R0
+IzKWHOl>;QK:Vd>TZF8OcK3
+R1
+R2
+w1759199599
+8C:\Users\denig\Music\Tarea Iris\ALU_tb.v
+FC:\Users\denig\Music\Tarea Iris\ALU_tb.v
+!i122 24
+L0 3 48
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:\Users\denig\Music\Tarea Iris\ALU_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\denig\Music\Tarea Iris\ALU_tb.v|
+!i113 1
+R4
+R5
+n@a@l@u_@t@b
+vBancoR
+R6
+!i10b 1
+!s100 KoE7Nc1F5H8lkU`?aFYhO3
+R0
+I;B7E>MkbUmaUXGbEbUaoY2
+R1
+R2
+w1759195331
+8C:\Users\denig\Music\Tarea Iris\Brr.v
+FC:\Users\denig\Music\Tarea Iris\Brr.v
+!i122 20
+L0 2 22
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:\Users\denig\Music\Tarea Iris\Brr.v|
+!s90 -reportprogress|300|-work|BR|-stats=none|C:\Users\denig\Music\Tarea Iris\Brr.v|
+!i113 1
+Z8 o-work BR
+R5
+n@banco@r
+vbancotb
+R6
+!i10b 1
+!s100 2AoEEB^Ok`ZVHKeNV68Jk3
+R0
+IZkj;4m;TkU==55V_[Eziz2
+R1
+R2
+w1758729745
+8C:\Users\denig\Music\Tarea Iris\Brr_tb.v
+FC:\Users\denig\Music\Tarea Iris\Brr_tb.v
+!i122 21
+L0 2 39
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:\Users\denig\Music\Tarea Iris\Brr_tb.v|
+!s90 -reportprogress|300|-work|BR|-stats=none|C:\Users\denig\Music\Tarea Iris\Brr_tb.v|
+!i113 1
+R8
+R5
+vBurrito
+R6
+!i10b 1
+!s100 9lVFS>=FF@R:lQTfFZ`Ni2
+R0
+Ie44og4]7:j?zSik>NHXE81
+R1
+R2
+w1759199403
+8C:\Users\denig\Music\Tarea Iris\Burrito_tb.v
+FC:\Users\denig\Music\Tarea Iris\Burrito_tb.v
+!i122 25
+L0 2 36
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:\Users\denig\Music\Tarea Iris\Burrito_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\denig\Music\Tarea Iris\Burrito_tb.v|
+!i113 1
+R4
+R5
+n@burrito
+vInstructionDecoder
+R6
+!i10b 1
+!s100 [[51gmm^cg=0jF@4DNXQj2
+R0
+IJ[EnX@o6z;aH2i:L]nP493
+R1
+R2
+w1759199826
+8C:\Users\denig\Music\Tarea Iris\Instruccion.v
+FC:\Users\denig\Music\Tarea Iris\Instruccion.v
+!i122 26
+L0 1 14
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:\Users\denig\Music\Tarea Iris\Instruccion.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\denig\Music\Tarea Iris\Instruccion.v|
+!i113 1
+R4
+R5
+n@instruction@decoder
+vInstructionDecoder_TB
+R6
+!i10b 1
+!s100 gMghLM[j;E8n785V`Y;f[0
+R0
+I03ffn7i;=mY?gHHU=1`0e3
+R1
+R2
+w1759199909
+8C:\Users\denig\Music\Tarea Iris\Instruccion_tb.v
+FC:\Users\denig\Music\Tarea Iris\Instruccion_tb.v
+!i122 27
+L0 3 40
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:\Users\denig\Music\Tarea Iris\Instruccion_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\denig\Music\Tarea Iris\Instruccion_tb.v|
+!i113 1
+R4
+R5
+n@instruction@decoder_@t@b
