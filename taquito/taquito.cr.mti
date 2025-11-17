@@ -1,0 +1,15 @@
+C:/Users/denig/Music/taquito/Taquitoo_tb.v {1 {vlog -work taquito -stats=none C:/Users/denig/Music/taquito/Taquitoo_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Taquito_TB
+
+Top level modules:
+	Taquito_TB
+
+} {} {}} C:/Users/denig/Music/taquito/Taquitoo.v {1 {vlog -work taquito -stats=none C:/Users/denig/Music/taquito/Taquitoo.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module taquito
+
+Top level modules:
+	taquito
+
+} {} {}}
