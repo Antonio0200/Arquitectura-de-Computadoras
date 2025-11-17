@@ -1,0 +1,130 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/denig/Music/Fetch
+vadder4
+Z0 !s110 1760572176
+!i10b 1
+!s100 JXiGWjSW0D`;]SdDJXR241
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I1mINP=8alM[o8l_KU`Nc:3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/denig/Music/Quesadilla
+w1760572074
+8C:\Users\denig\Music\Quesadilla\Adder4.v
+FC:\Users\denig\Music\Quesadilla\Adder4.v
+!i122 6
+L0 3 8
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1760572176.000000
+!s107 C:\Users\denig\Music\Quesadilla\Adder4.v|
+!s90 -reportprogress|300|-work|Quesadilla|-stats=none|C:\Users\denig\Music\Quesadilla\Adder4.v|
+!i113 1
+Z6 o-work Quesadilla
+Z7 tCvgOpt 0
+vMemoriaInstrucciones
+Z8 !s110 1760572177
+!i10b 1
+!s100 KnA:zQ9XP4k5a4G9P]C^`1
+R1
+I18P`0K[ld1FlOW4<lSXVB1
+R2
+R3
+w1760572066
+8C:\Users\denig\Music\Quesadilla\MemInstrucciones.v
+FC:\Users\denig\Music\Quesadilla\MemInstrucciones.v
+!i122 7
+L0 3 38
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:\Users\denig\Music\Quesadilla\MemInstrucciones.v|
+!s90 -reportprogress|300|-work|Quesadilla|-stats=none|C:\Users\denig\Music\Quesadilla\MemInstrucciones.v|
+!i113 1
+R6
+R7
+n@memoria@instrucciones
+vProgramCounter
+R0
+!i10b 1
+!s100 5_LaO=bE1`gd>dEPRC_?`0
+R1
+Injmb>RKnXQVm8QTc5@[nV2
+R2
+R3
+w1760572029
+8C:\Users\denig\Music\Quesadilla\Pc.v
+FC:\Users\denig\Music\Quesadilla\Pc.v
+!i122 5
+L0 3 15
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:\Users\denig\Music\Quesadilla\Pc.v|
+!s90 -reportprogress|300|-work|Quesadilla|-stats=none|C:\Users\denig\Music\Quesadilla\Pc.v|
+!i113 1
+R6
+R7
+n@program@counter
+vQuesadilla
+R8
+!i10b 1
+!s100 M^hm@o6f7[>KWk1d<e@X42
+R1
+Io4=Va03F5o[j:Ra;gHkNB2
+R2
+R3
+w1760572021
+8C:\Users\denig\Music\Quesadilla\Quesadilla1.v
+FC:\Users\denig\Music\Quesadilla\Quesadilla1.v
+!i122 8
+L0 3 36
+R4
+r1
+!s85 0
+31
+Z9 !s108 1760572177.000000
+!s107 C:\Users\denig\Music\Quesadilla\Quesadilla1.v|
+!s90 -reportprogress|300|-work|Quesadilla|-stats=none|C:\Users\denig\Music\Quesadilla\Quesadilla1.v|
+!i113 1
+R6
+R7
+n@quesadilla
+vQuesadilla_tb
+R8
+!i10b 1
+!s100 Te6ijB2WD4L[8o@fc?QGP1
+R1
+IhTmKghIOZePCkXE7WQW=V1
+R2
+R3
+w1760572170
+8C:\Users\denig\Music\Quesadilla\Quesadilla_Tb.v
+FC:\Users\denig\Music\Quesadilla\Quesadilla_Tb.v
+!i122 9
+L0 3 33
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:\Users\denig\Music\Quesadilla\Quesadilla_Tb.v|
+!s90 -reportprogress|300|-work|Quesadilla|-stats=none|C:\Users\denig\Music\Quesadilla\Quesadilla_Tb.v|
+!i113 1
+R6
+R7
+n@quesadilla_tb

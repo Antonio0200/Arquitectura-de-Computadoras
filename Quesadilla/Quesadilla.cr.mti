@@ -1,0 +1,36 @@
+C:/Users/denig/Music/Quesadilla/Quesadilla1.v {1 {vlog -work Quesadilla -stats=none {C:\Users\denig\Music\Quesadilla\Quesadilla1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Quesadilla
+
+Top level modules:
+	Quesadilla
+
+} {} {}} C:/Users/denig/Music/Quesadilla/Quesadilla_Tb.v {1 {vlog -work Quesadilla -stats=none {C:\Users\denig\Music\Quesadilla\Quesadilla_Tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Quesadilla_tb
+
+Top level modules:
+	Quesadilla_tb
+
+} {} {}} C:/Users/denig/Music/Quesadilla/Pc.v {1 {vlog -work Quesadilla -stats=none {C:\Users\denig\Music\Quesadilla\Pc.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ProgramCounter
+
+Top level modules:
+	ProgramCounter
+
+} {} {}} C:/Users/denig/Music/Quesadilla/Adder4.v {1 {vlog -work Quesadilla -stats=none {C:\Users\denig\Music\Quesadilla\Adder4.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module adder4
+
+Top level modules:
+	adder4
+
+} {} {}} C:/Users/denig/Music/Quesadilla/MemInstrucciones.v {1 {vlog -work Quesadilla -stats=none {C:\Users\denig\Music\Quesadilla\MemInstrucciones.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MemoriaInstrucciones
+
+Top level modules:
+	MemoriaInstrucciones
+
+} {} {}}
