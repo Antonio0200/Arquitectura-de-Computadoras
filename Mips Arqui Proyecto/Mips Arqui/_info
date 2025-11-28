@@ -1,0 +1,449 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vadicion
+Z0 !s110 1764366710
+!i10b 1
+!s100 m]FDSc;9NTeGV3FeZ7_4?0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I_6n8Ga97KODQC7;z;Gcd73
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/denig/Videos/Mips Arqui Proyecto
+Z4 w1764256852
+8C:\Users\denig\Downloads\Arqui-MIPS-main\adicion.v
+FC:\Users\denig\Downloads\Arqui-MIPS-main\adicion.v
+!i122 13
+L0 2 7
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1764366709.000000
+!s107 C:\Users\denig\Downloads\Arqui-MIPS-main\adicion.v|
+!s90 -reportprogress|300|-work|Mips Arqui|-stats=none|C:\Users\denig\Downloads\Arqui-MIPS-main\adicion.v|
+!i113 1
+Z7 o-work {Mips Arqui}
+Z8 tCvgOpt 0
+valu
+Z9 !s110 1764366711
+!i10b 1
+!s100 T9^iAMnAMR>;cRJDf8Jg41
+R1
+If^?]]ViXGzZ?ee3<fLIPz2
+R2
+R3
+w1764365896
+8C:\Users\denig\Videos\Mips Arqui Proyecto\alu.v
+FC:\Users\denig\Videos\Mips Arqui Proyecto\alu.v
+!i122 25
+L0 2 22
+R5
+r1
+!s85 0
+31
+Z10 !s108 1764366711.000000
+!s107 C:\Users\denig\Videos\Mips Arqui Proyecto\alu.v|
+!s90 -reportprogress|300|-work|Mips Arqui|-stats=none|C:\Users\denig\Videos\Mips Arqui Proyecto\alu.v|
+!i113 1
+R7
+R8
+valu_control
+R0
+!i10b 1
+!s100 l@dee^4U1jkfP8EQi:YPQ0
+R1
+IH1>Gl46T1AZ6B0GF=AZAD0
+R2
+R3
+w1764365957
+8C:\Users\denig\Downloads\Arqui-MIPS-main\alu_control.v
+FC:\Users\denig\Downloads\Arqui-MIPS-main\alu_control.v
+!i122 14
+Z11 L0 2 30
+R5
+r1
+!s85 0
+31
+Z12 !s108 1764366710.000000
+!s107 C:\Users\denig\Downloads\Arqui-MIPS-main\alu_control.v|
+!s90 -reportprogress|300|-work|Mips Arqui|-stats=none|C:\Users\denig\Downloads\Arqui-MIPS-main\alu_control.v|
+!i113 1
+R7
+R8
+vbancoRegistros
+R0
+!i10b 1
+!s100 d<4TE8CKc^cn<Cl^<i_;H2
+R1
+IQ<RG7X2i@Lhj1S2GRKhTH3
+R2
+R3
+w1764366271
+8C:\Users\denig\Downloads\Arqui-MIPS-main\bancoRegistros.v
+FC:\Users\denig\Downloads\Arqui-MIPS-main\bancoRegistros.v
+!i122 15
+L0 2 29
+R5
+r1
+!s85 0
+31
+R12
+!s107 C:\Users\denig\Downloads\Arqui-MIPS-main\bancoRegistros.v|
+!s90 -reportprogress|300|-work|Mips Arqui|-stats=none|C:\Users\denig\Downloads\Arqui-MIPS-main\bancoRegistros.v|
+!i113 1
+R7
+R8
+nbanco@registros
+vbuf1
+R0
+!i10b 1
+!s100 ]=GO6DNojM6z^B4<XI^9b0
+R1
+IQ[bbF6>6dhkQO4fnKKg162
+R2
+R3
+R4
+8C:\Users\denig\Downloads\Arqui-MIPS-main\buf1.v
+FC:\Users\denig\Downloads\Arqui-MIPS-main\buf1.v
+!i122 16
+Z13 L0 2 18
+R5
+r1
+!s85 0
+31
+R12
+!s107 C:\Users\denig\Downloads\Arqui-MIPS-main\buf1.v|
+!s90 -reportprogress|300|-work|Mips Arqui|-stats=none|C:\Users\denig\Downloads\Arqui-MIPS-main\buf1.v|
+!i113 1
+R7
+R8
+vbuf2
+R0
+!i10b 1
+!s100 hBJZln2`l9<9>>5od[RVW3
+R1
+ImJ0>9DH?ORKS`ZH7V=_e72
+R2
+R3
+R4
+8C:\Users\denig\Downloads\Arqui-MIPS-main\buf2.v
+FC:\Users\denig\Downloads\Arqui-MIPS-main\buf2.v
+!i122 17
+L0 2 26
+R5
+r1
+!s85 0
+31
+R12
+!s107 C:\Users\denig\Downloads\Arqui-MIPS-main\buf2.v|
+!s90 -reportprogress|300|-work|Mips Arqui|-stats=none|C:\Users\denig\Downloads\Arqui-MIPS-main\buf2.v|
+!i113 1
+R7
+R8
+vburrote
+R0
+!i10b 1
+!s100 UTEGD7TRc[W01ZfiY19PY0
+R1
+IBneWTEU?<HB[S=7eY>VnH2
+R2
+R3
+w1764366303
+8C:\Users\denig\Downloads\Arqui-MIPS-main\burrote.v
+FC:\Users\denig\Downloads\Arqui-MIPS-main\burrote.v
+!i122 18
+L0 2 57
+R5
+r1
+!s85 0
+31
+R12
+!s107 C:\Users\denig\Downloads\Arqui-MIPS-main\burrote.v|
+!s90 -reportprogress|300|-work|Mips Arqui|-stats=none|C:\Users\denig\Downloads\Arqui-MIPS-main\burrote.v|
+!i113 1
+R7
+R8
+vciclo_fetch
+R0
+!i10b 1
+!s100 Ue]J1OhmjG?jgD:Vm?G2V2
+R1
+I76cG2Ue@GMR3M^Sc5^z_k1
+R2
+R3
+R4
+8C:\Users\denig\Downloads\Arqui-MIPS-main\ciclo_fetch.v
+FC:\Users\denig\Downloads\Arqui-MIPS-main\ciclo_fetch.v
+!i122 19
+L0 2 25
+R5
+r1
+!s85 0
+31
+R12
+!s107 C:\Users\denig\Downloads\Arqui-MIPS-main\ciclo_fetch.v|
+!s90 -reportprogress|300|-work|Mips Arqui|-stats=none|C:\Users\denig\Downloads\Arqui-MIPS-main\ciclo_fetch.v|
+!i113 1
+R7
+R8
+vcorrimiento_izq2
+Z14 !s110 1764366712
+!i10b 1
+!s100 ]1]@o@[e0e6gH2cc4R=2;1
+R1
+Ia`RQm=G5KHH4GAT^zVJ^@1
+R2
+R3
+w1764366115
+8C:\Users\denig\Videos\Mips Arqui Proyecto\corrimiento_izq2.v
+FC:\Users\denig\Videos\Mips Arqui Proyecto\corrimiento_izq2.v
+!i122 27
+Z15 L0 2 10
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:\Users\denig\Videos\Mips Arqui Proyecto\corrimiento_izq2.v|
+!s90 -reportprogress|300|-work|Mips Arqui|-stats=none|C:\Users\denig\Videos\Mips Arqui Proyecto\corrimiento_izq2.v|
+!i113 1
+R7
+R8
+vextension_signo
+R9
+!i10b 1
+!s100 ^UaSV=hZ9k[AS>XcCEeC:2
+R1
+IbcG9Zn:d5Ng6EEXOVkCVj3
+R2
+R3
+w1764366040
+8C:\Users\denig\Videos\Mips Arqui Proyecto\extension_signo.v
+FC:\Users\denig\Videos\Mips Arqui Proyecto\extension_signo.v
+!i122 26
+R15
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:\Users\denig\Videos\Mips Arqui Proyecto\extension_signo.v|
+!s90 -reportprogress|300|-work|Mips Arqui|-stats=none|C:\Users\denig\Videos\Mips Arqui Proyecto\extension_signo.v|
+!i113 1
+R7
+R8
+vmemoria_datos
+!s110 1764366714
+!i10b 1
+!s100 32mRjzZ=8;9U4HdCSeI8X2
+R1
+Ij=iK3mQSb6iYK0bJ7Izao1
+R2
+R3
+w1764366694
+8C:\Users\denig\Videos\Mips Arqui Proyecto\memoria_datos.v
+FC:\Users\denig\Videos\Mips Arqui Proyecto\memoria_datos.v
+!i122 30
+R11
+R5
+r1
+!s85 0
+31
+!s108 1764366713.000000
+!s107 C:\Users\denig\Videos\Mips Arqui Proyecto\memoria_datos.v|
+!s90 -reportprogress|300|-work|Mips Arqui|-stats=none|C:\Users\denig\Videos\Mips Arqui Proyecto\memoria_datos.v|
+!i113 1
+R7
+R8
+vmemoria_instrucciones
+R0
+!i10b 1
+!s100 [TaKLFjmMmdRzUA]1LZMj1
+R1
+IEj0E[F2T`?cBCmKi^hmOE1
+R2
+R3
+R4
+8C:\Users\denig\Downloads\Arqui-MIPS-main\memoria_instrucciones.v
+FC:\Users\denig\Downloads\Arqui-MIPS-main\memoria_instrucciones.v
+!i122 20
+L0 2 23
+R5
+r1
+!s85 0
+31
+R12
+!s107 C:\Users\denig\Downloads\Arqui-MIPS-main\memoria_instrucciones.v|
+!s90 -reportprogress|300|-work|Mips Arqui|-stats=none|C:\Users\denig\Downloads\Arqui-MIPS-main\memoria_instrucciones.v|
+!i113 1
+R7
+R8
+vmi
+R0
+!i10b 1
+!s100 B7G^^hYnTI7_:e=0im[AC2
+R1
+I?m^MGj3L3Z1G60<3OTc<70
+R2
+R3
+R4
+8C:\Users\denig\Downloads\Arqui-MIPS-main\mi.v
+FC:\Users\denig\Downloads\Arqui-MIPS-main\mi.v
+!i122 21
+L0 2 43
+R5
+r1
+!s85 0
+31
+R12
+!s107 C:\Users\denig\Downloads\Arqui-MIPS-main\mi.v|
+!s90 -reportprogress|300|-work|Mips Arqui|-stats=none|C:\Users\denig\Downloads\Arqui-MIPS-main\mi.v|
+!i113 1
+R7
+R8
+vmips_pipeline
+R14
+!i10b 1
+!s100 A99IO8hRO56La4Y;CI81O0
+R1
+IJ6:GZ;U[;9^O3FKj6aQcJ2
+R2
+R3
+w1764366449
+8C:\Users\denig\Videos\Mips Arqui Proyecto\mips_pipeline.v
+FC:\Users\denig\Videos\Mips Arqui Proyecto\mips_pipeline.v
+!i122 28
+L0 2 49
+R5
+r1
+!s85 0
+31
+Z16 !s108 1764366712.000000
+!s107 C:\Users\denig\Videos\Mips Arqui Proyecto\mips_pipeline.v|
+!s90 -reportprogress|300|-work|Mips Arqui|-stats=none|C:\Users\denig\Videos\Mips Arqui Proyecto\mips_pipeline.v|
+!i113 1
+R7
+R8
+vmultidos
+R0
+!i10b 1
+!s100 lJnF7lEh8_Q[S3X4d2gho2
+R1
+IEEfWXOV0GN?m7nYGe;IKP0
+R2
+R3
+R4
+8C:\Users\denig\Downloads\Arqui-MIPS-main\multidos.v
+FC:\Users\denig\Downloads\Arqui-MIPS-main\multidos.v
+!i122 22
+L0 2 9
+R5
+r1
+!s85 0
+31
+R12
+!s107 C:\Users\denig\Downloads\Arqui-MIPS-main\multidos.v|
+!s90 -reportprogress|300|-work|Mips Arqui|-stats=none|C:\Users\denig\Downloads\Arqui-MIPS-main\multidos.v|
+!i113 1
+R7
+R8
+vmultiuno
+R9
+!i10b 1
+!s100 B1ej;5g]iH]W6i6znZ>k91
+R1
+INOodg7fVDSz?@LlMnAcV@3
+R2
+R3
+w1764366338
+8C:\Users\denig\Downloads\Arqui-MIPS-main\multiuno.v
+FC:\Users\denig\Downloads\Arqui-MIPS-main\multiuno.v
+!i122 23
+L0 2 12
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:\Users\denig\Downloads\Arqui-MIPS-main\multiuno.v|
+!s90 -reportprogress|300|-work|Mips Arqui|-stats=none|C:\Users\denig\Downloads\Arqui-MIPS-main\multiuno.v|
+!i113 1
+R7
+R8
+vprogram_counter
+!s110 1764366709
+!i10b 1
+!s100 W415`lgP<W><IKU7R@gjB1
+R1
+IKU0[RakX5FO6EZW65;AHA2
+R2
+R3
+w1764361005
+8C:\Users\denig\Downloads\Arqui-MIPS-main\program_counter.v
+FC:\Users\denig\Downloads\Arqui-MIPS-main\program_counter.v
+!i122 12
+R13
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:\Users\denig\Downloads\Arqui-MIPS-main\program_counter.v|
+!s90 -reportprogress|300|-work|Mips Arqui|-stats=none|C:\Users\denig\Downloads\Arqui-MIPS-main\program_counter.v|
+!i113 1
+R7
+R8
+vtestbench_principal
+!s110 1764366713
+!i10b 1
+!s100 mNhgcSdlB5jCJlX8BlWZ32
+R1
+I7Ja0X__3`kgmFl<[6zd@n1
+R2
+R3
+w1764366498
+8C:\Users\denig\Videos\Mips Arqui Proyecto\testbench_principal.v
+FC:\Users\denig\Videos\Mips Arqui Proyecto\testbench_principal.v
+!i122 29
+L0 2 24
+R5
+r1
+!s85 0
+31
+R16
+!s107 C:\Users\denig\Videos\Mips Arqui Proyecto\testbench_principal.v|
+!s90 -reportprogress|300|-work|Mips Arqui|-stats=none|C:\Users\denig\Videos\Mips Arqui Proyecto\testbench_principal.v|
+!i113 1
+R7
+R8
+vunidad_control
+R9
+!i10b 1
+!s100 e2f5G;zA=<mFPW`fM0Wea1
+R1
+I9h]dNEJMbGPDgP2@Nm7<`0
+R2
+R3
+w1764365725
+8C:\Users\denig\Videos\Mips Arqui Proyecto\unidad_control.v
+FC:\Users\denig\Videos\Mips Arqui Proyecto\unidad_control.v
+!i122 24
+L0 2 83
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:\Users\denig\Videos\Mips Arqui Proyecto\unidad_control.v|
+!s90 -reportprogress|300|-work|Mips Arqui|-stats=none|C:\Users\denig\Videos\Mips Arqui Proyecto\unidad_control.v|
+!i113 1
+R7
+R8
